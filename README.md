@@ -1,4 +1,4 @@
-# Data_analysis_Case_Study_python
+# Data_Analysis_Case_Study_python
 This project showcase  the data exploration , data cleaning , checking data quality ,data visualizations ,data story telling  using python module (Pandas ,seaborn ,matplotlib))
 
 **Project Description**
@@ -10,5 +10,6 @@ and allow the company to grow.
 The main **investors** in the Board are worried about offering aggressive discounts. They have pointed out how the company’s recent quarterly results 
 showed an increase in orders placed, but a decrease in the total revenue. They prefer that the company positions itself in the quality segment, rather than competing to offer the
 lowest prices in the market.
+
 
 
