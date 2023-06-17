@@ -1,4 +1,4 @@
-# Data_Analysis_Case_Study_python
+# Data_Analysis_Case_Study_Python
 This project showcase  the data exploration , data cleaning , checking data quality ,data visualizations ,data story telling  using python module (Pandas ,seaborn ,matplotlib))
 
 **Project Description**
